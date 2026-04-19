@@ -1,0 +1,12 @@
+E:\HouseBrokerApp\src\HouseBroker.Domain\bin\Debug\net10.0\HouseBroker.Domain.deps.json
+E:\HouseBrokerApp\src\HouseBroker.Domain\bin\Debug\net10.0\HouseBroker.Domain.dll
+E:\HouseBrokerApp\src\HouseBroker.Domain\bin\Debug\net10.0\HouseBroker.Domain.pdb
+E:\HouseBrokerApp\src\HouseBroker.Domain\obj\Debug\net10.0\HouseBroker.Domain.csproj.AssemblyReference.cache
+E:\HouseBrokerApp\src\HouseBroker.Domain\obj\Debug\net10.0\HouseBroker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\HouseBrokerApp\src\HouseBroker.Domain\obj\Debug\net10.0\HouseBroker.Domain.AssemblyInfoInputs.cache
+E:\HouseBrokerApp\src\HouseBroker.Domain\obj\Debug\net10.0\HouseBroker.Domain.AssemblyInfo.cs
+E:\HouseBrokerApp\src\HouseBroker.Domain\obj\Debug\net10.0\HouseBroker.Domain.csproj.CoreCompileInputs.cache
+E:\HouseBrokerApp\src\HouseBroker.Domain\obj\Debug\net10.0\HouseBroker.Domain.dll
+E:\HouseBrokerApp\src\HouseBroker.Domain\obj\Debug\net10.0\refint\HouseBroker.Domain.dll
+E:\HouseBrokerApp\src\HouseBroker.Domain\obj\Debug\net10.0\HouseBroker.Domain.pdb
+E:\HouseBrokerApp\src\HouseBroker.Domain\obj\Debug\net10.0\ref\HouseBroker.Domain.dll

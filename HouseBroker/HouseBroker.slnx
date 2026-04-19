@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="../src/HouseBroker.API/HouseBroker.API.csproj" />
+    <Project Path="../src/HouseBroker.Application/HouseBroker.Application.csproj" />
+    <Project Path="../src/HouseBroker.Domain/HouseBroker.Domain.csproj" />
+    <Project Path="../src/HouseBroker.Infrastructure/HouseBroker.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="../tests/HouseBroker.Tests/HouseBroker.Tests.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HouseBrokerApp\\HouseBroker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HouseBrokerApp\\src\\HouseBroker.Infrastructure\\Migrations\\20260419112422_InitialCreating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBB9537-0E58-F1CF-0841-E398A438FADB}|..\\src\\HouseBroker.Domain\\HouseBroker.Domain.csproj|e:\\housebrokerapp\\src\\housebroker.domain\\entities\\propertyimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBB9537-0E58-F1CF-0841-E398A438FADB}|..\\src\\HouseBroker.Domain\\HouseBroker.Domain.csproj|e:\\housebrokerapp\\src\\housebroker.domain\\entities\\propertylisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HouseBrokerApp\\src\\HouseBroker.Infrastructure\\Migrations\\20260419111824_InitialDatas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HouseBrokerApp\\src\\HouseBroker.Infrastructure\\Migrations\\20260419110840_InitialData1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C644138-CBC4-61BF-C3A5-9B92A85635A3}|..\\src\\HouseBroker.Application\\HouseBroker.Application.csproj|e:\\housebrokerapp\\src\\housebroker.application\\services\\commissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C644138-CBC4-61BF-C3A5-9B92A85635A3}|..\\src\\HouseBroker.Application\\HouseBroker.Application.csproj|e:\\housebrokerapp\\src\\housebroker.application\\interfaces\\icommissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D54FE1-E58F-18F9-DC79-0F832888984A}|..\\src\\HouseBroker.API\\HouseBroker.API.csproj|e:\\housebrokerapp\\src\\housebroker.api\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C644138-CBC4-61BF-C3A5-9B92A85635A3}|..\\src\\HouseBroker.Application\\HouseBroker.Application.csproj|e:\\housebrokerapp\\src\\housebroker.application\\interfaces\\icommissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF09E5C5-4CAF-73DE-292D-972A4E526170}|..\\src\\HouseBroker.Infrastructure\\HouseBroker.Infrastructure.csproj|e:\\housebrokerapp\\src\\housebroker.infrastructure\\persistence\\commissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260419112422_InitialCreating.cs",
+              "DocumentMoniker": "E:\\HouseBrokerApp\\src\\HouseBroker.Infrastructure\\Migrations\\20260419112422_InitialCreating.cs",
+              "RelativeDocumentMoniker": "..\\src\\HouseBroker.Infrastructure\\Migrations\\20260419112422_InitialCreating.cs",
+              "ToolTip": "E:\\HouseBrokerApp\\src\\HouseBroker.Infrastructure\\Migrations\\20260419112422_InitialCreating.cs",
+              "RelativeToolTip": "..\\src\\HouseBroker.Infrastructure\\Migrations\\20260419112422_InitialCreating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T11:24:23.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260419111824_InitialDatas.cs",
+              "DocumentMoniker": "E:\\HouseBrokerApp\\src\\HouseBroker.Infrastructure\\Migrations\\20260419111824_InitialDatas.cs",
+              "RelativeDocumentMoniker": "..\\src\\HouseBroker.Infrastructure\\Migrations\\20260419111824_InitialDatas.cs",
+              "ToolTip": "E:\\HouseBrokerApp\\src\\HouseBroker.Infrastructure\\Migrations\\20260419111824_InitialDatas.cs",
+              "RelativeToolTip": "..\\src\\HouseBroker.Infrastructure\\Migrations\\20260419111824_InitialDatas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T11:18:25.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260419110840_InitialData1.cs",
+              "DocumentMoniker": "E:\\HouseBrokerApp\\src\\HouseBroker.Infrastructure\\Migrations\\20260419110840_InitialData1.cs",
+              "RelativeDocumentMoniker": "..\\src\\HouseBroker.Infrastructure\\Migrations\\20260419110840_InitialData1.cs",
+              "ToolTip": "E:\\HouseBrokerApp\\src\\HouseBroker.Infrastructure\\Migrations\\20260419110840_InitialData1.cs",
+              "RelativeToolTip": "..\\src\\HouseBroker.Infrastructure\\Migrations\\20260419110840_InitialData1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T11:08:43.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropertyImage.cs",
+              "DocumentMoniker": "E:\\HouseBrokerApp\\src\\HouseBroker.Domain\\Entities\\PropertyImage.cs",
+              "RelativeDocumentMoniker": "..\\src\\HouseBroker.Domain\\Entities\\PropertyImage.cs",
+              "ToolTip": "E:\\HouseBrokerApp\\src\\HouseBroker.Domain\\Entities\\PropertyImage.cs",
+              "RelativeToolTip": "..\\src\\HouseBroker.Domain\\Entities\\PropertyImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T11:06:51.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PropertyListing.cs",
+              "DocumentMoniker": "E:\\HouseBrokerApp\\src\\HouseBroker.Domain\\Entities\\PropertyListing.cs",
+              "RelativeDocumentMoniker": "..\\src\\HouseBroker.Domain\\Entities\\PropertyListing.cs",
+              "ToolTip": "E:\\HouseBrokerApp\\src\\HouseBroker.Domain\\Entities\\PropertyListing.cs",
+              "RelativeToolTip": "..\\src\\HouseBroker.Domain\\Entities\\PropertyListing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T11:02:22.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PropertyController.cs",
+              "DocumentMoniker": "E:\\HouseBrokerApp\\src\\HouseBroker.API\\Controllers\\PropertyController.cs",
+              "RelativeDocumentMoniker": "..\\src\\HouseBroker.API\\Controllers\\PropertyController.cs",
+              "ToolTip": "E:\\HouseBrokerApp\\src\\HouseBroker.API\\Controllers\\PropertyController.cs",
+              "RelativeToolTip": "..\\src\\HouseBroker.API\\Controllers\\PropertyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T10:48:00.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICommissionService.cs",
+              "DocumentMoniker": "E:\\HouseBrokerApp\\src\\HouseBroker.Application\\Interfaces\\ICommissionService.cs",
+              "RelativeDocumentMoniker": "..\\src\\HouseBroker.Application\\Interfaces\\ICommissionService.cs",
+              "ToolTip": "E:\\HouseBrokerApp\\src\\HouseBroker.Application\\Interfaces\\ICommissionService.cs",
+              "RelativeToolTip": "..\\src\\HouseBroker.Application\\Interfaces\\ICommissionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T10:36:43.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommissionService.cs",
+              "DocumentMoniker": "E:\\HouseBrokerApp\\src\\HouseBroker.Application\\Services\\CommissionService.cs",
+              "RelativeDocumentMoniker": "..\\src\\HouseBroker.Application\\Services\\CommissionService.cs",
+              "ToolTip": "E:\\HouseBrokerApp\\src\\HouseBroker.Application\\Services\\CommissionService.cs",
+              "RelativeToolTip": "..\\src\\HouseBroker.Application\\Services\\CommissionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T10:35:00.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICommissionRepository.cs",
+              "DocumentMoniker": "E:\\HouseBrokerApp\\src\\HouseBroker.Application\\Interfaces\\ICommissionRepository.cs",
+              "RelativeDocumentMoniker": "..\\src\\HouseBroker.Application\\Interfaces\\ICommissionRepository.cs",
+              "ToolTip": "E:\\HouseBrokerApp\\src\\HouseBroker.Application\\Interfaces\\ICommissionRepository.cs",
+              "RelativeToolTip": "..\\src\\HouseBroker.Application\\Interfaces\\ICommissionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T10:31:45.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommissionRepository.cs",
+              "DocumentMoniker": "E:\\HouseBrokerApp\\src\\HouseBroker.Infrastructure\\Persistence\\CommissionRepository.cs",
+              "RelativeDocumentMoniker": "..\\src\\HouseBroker.Infrastructure\\Persistence\\CommissionRepository.cs",
+              "ToolTip": "E:\\HouseBrokerApp\\src\\HouseBroker.Infrastructure\\Persistence\\CommissionRepository.cs",
+              "RelativeToolTip": "..\\src\\HouseBroker.Infrastructure\\Persistence\\CommissionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T10:26:54.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
